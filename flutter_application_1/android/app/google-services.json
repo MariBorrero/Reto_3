@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949684990721",
+    "project_id": "reto3-chat-fc2dd",
+    "storage_bucket": "reto3-chat-fc2dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949684990721:android:923c6e456b170fd934a100",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949684990721-3cl4b7nbt0460d218m44c50h2oodeche.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYQogvfH9w0MG3rmlYSY9X2Fmu3yYo4-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949684990721-3cl4b7nbt0460d218m44c50h2oodeche.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
