@@ -1,16 +1,16 @@
-# flutter_application_1
+# Reto 3 - intento 2
 
-A new Flutter project.
+Buenas noches adjunto el link del intento 2, pedimos el favor de tener en cuenta la siguiente situación que se nos presentó:
 
-## Getting Started
+Las siguientes librerías que se colocaron en pubspec.yaml no cargaron y no funcionaron:
+  firebase_auth
+  firebase_core
+  cloud_firestore
 
-This project is a starting point for a Flutter application.
+Creo que esto se debió a un tema de configuración de las herramientas. Dado que no cargaron esas librerías, no se pudo importar las librerías en los archivos de:
+    chat.dart
+    mensajes.dart
+    autenticacion.dart
+    main.dart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Si hubiese podido importarlas el proyecto no tuviese esos errores. Teniendo estos errores no pude correr la aplicación para poder grabar un demo. Espero que puedan entender la situación.
